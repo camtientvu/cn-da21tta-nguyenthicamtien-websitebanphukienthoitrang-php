@@ -2,7 +2,7 @@
 Giáo viên hướng dẫn: Phạm Thị Trúc Mai <br>
 Sinh viên thực hiện: Nguyễn Thị Cẩm Tiên - 110121114 - DA21TTA <br>
 Email: nguyenthicamtien16102001@gmail.com <br>
-Số điện thoại: 0969898713
+
 
 ## Tóm Tắt Đồ Án Chuyên Ngành
 Website được tạo ra với mục đích giúp người dùng tương tác và quản lý hiệu quả các hoạt động mua bán trực tuyến. Trong xã hội hiện nay, khi việc mua sắm và kinh doanh trực tuyến trở nên không thể thiếu, website được thiết kế với các chức năng nhằm tối ưu hóa trải nghiệm người dùng. Đối với người quản trị, hệ thống cung cấp các chức năng quản lý sản phẩm, đơn hàng, người dùng, cùng các tính năng như quản lý đánh giá-bình luận, thống kê báo cáo kho và doanh thu, cũng như trò chuyện trực tuyến để tăng cường tương tác với khách hàng. <br><br>
@@ -66,15 +66,15 @@ Liên hệ với quản trị viên: Khách vãng lai có thể trao đổi vớ
 ### Sơ đồ use case
 Use case tổng quát của hệ thống
 ![image](https://github.com/user-attachments/assets/1d71effd-cb26-486a-b7cf-b697519595d6)
-Mô tả: Người dùng bắt buộc phải đăng nhập với tài khoản đã được cấp, mỗi tài khoản sẽ có những phân quyền riêng, tùy vào phân quyền sẽ được sử dụng các chức năng khác nhau. <br>
+<br> Mô tả: Người dùng bắt buộc phải đăng nhập với tài khoản đã được cấp, mỗi tài khoản sẽ có những phân quyền riêng, tùy vào phân quyền sẽ được sử dụng các chức năng khác nhau. <br>
 Use case phân rã chức năng Admin
  ![image](https://github.com/user-attachments/assets/0ce51577-3483-4133-b1af-c057bfd7c0e9)
-Use case phân rã chức năng khách hàng
+<br> Use case phân rã chức năng khách hàng
 ![image](https://github.com/user-attachments/assets/09751e0e-8579-4f2c-a516-f6f85e84c44b)
 ### Sơ đồ phân rã chức năng
 Sơ đồ phân rã chức năng quản trị viên
 ![image](https://github.com/user-attachments/assets/89c381b2-bb5b-49b8-9ee9-81e46a2db374)
-Sơ đồ phân rã chức năng khách hàng
+<br> Sơ đồ phân rã chức năng khách hàng
 ![image](https://github.com/user-attachments/assets/dd73099a-5902-4761-9a91-0dc49050601b)
-Sơ đồ phân rã chức năng khách vãng lai
+<br> Sơ đồ phân rã chức năng khách vãng lai
 ![image](https://github.com/user-attachments/assets/9339dea2-c56f-49df-b9c5-3ec40d2c6c8d)
